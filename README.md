@@ -16,5 +16,6 @@ Nesta Fase 1, o foco foi a estruturação semântica utilizando HTML5 puro, sem 
 
 ## Como acessar
 O projeto está hospedado no GitHub Pages e pode ser acessado através do link:
-https://github.com/andrep-santos/FundamentosdeSistemasWebFase01 (Repositorio)
-https://andrep-santos.github.io/FundamentosdeSistemasWebFase01/ (Site)
+* https://github.com/andrep-santos/FundamentosdeSistemasWebFase01 (Repositorio)
+
+* https://andrep-santos.github.io/FundamentosdeSistemasWebFase01/ (Site)
